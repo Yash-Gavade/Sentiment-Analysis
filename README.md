@@ -13,8 +13,3 @@ After cleaning the data was converted to .csv (Comma Separated Values) file and 
 
 For the simplicity and avoid huge file size, a sample dataset named 'appl_1_amazon_pc.csv' has been created to perform Sentimental Analysis of reviews of Product Title 'Fire HD 7, 7" HD Display, Wi-Fi, 8 GB'
 
-Execution:
-1. Launch the Jupyter Notebook either in your kernel or App.
-2. In the Notebook Dashboard navigate to find the notebook. Open it in your browser.
-3. Open the Jupyter Notebook file named: 'appl_1_sentiment_analysis.ipynb'.
-4. You can run the notebook step by step by pressing shift+enter.
